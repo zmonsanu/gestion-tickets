@@ -19,7 +19,8 @@ En primer lugar se deberá arrancar la imagen docker de la base de datos Postgre
 docker> docker-compose up -d
 
 ## 📜 Configuraciones
-Cada microservicio intentará recueprar sus configuracion desde el servidor de config-server. Los ficheros de configuración están en un repo ubicado en la carpeta
+Cada microservicio intentará recuperar su configuracion desde el servidor de config-server. 
+Los ficheros de configuración están en un repo ubicado en la carpeta
 \config-tickets
 - servicio-clients-dev.properties
 - servicio-events-dev.properties
@@ -61,8 +62,8 @@ POST  http://localhost:8091/api/tickets/create
 Parametros {description, eventId, clientId, price}
 
 Generar un código QR para un ticket:
-POST  http://localhost:8091/api/tickets/generate/{id}
+POST  http://localhost:8091/api/tickets/generate?id=de8ff704-aac9-40a5-afc9-7c302b80e5e8
 Las imagenes con el código QR se guardaran en la ruta qr dentro del proyecto micro-ticket-tickets
 
 Validar un ticket:
-POST  http://localhost:8091/api/tickets/validate/{id}
+POST  http://localhost:8091/api/tickets/validate?id=de8ff704-aac9-40a5-afc9-7c302b80e5e8
