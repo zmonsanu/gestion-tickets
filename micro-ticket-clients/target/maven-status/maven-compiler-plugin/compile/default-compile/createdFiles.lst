@@ -1,0 +1,9 @@
+com/zms/infraestructure/outputport/EntityRepository.class
+com/zms/domain/Constant/Constantes.class
+com/zms/infraestructure/rest/controller/ClientAPI.class
+com/zms/MicroServicioClients.class
+com/zms/application/commands/ClientUseCase.class
+com/zms/infraestructure/outputadapter/ClientOutPort.class
+com/zms/domain/model/dto/Clients$ClientsBuilder.class
+com/zms/infraestructure/inputport/ClientRemotePort.class
+com/zms/domain/model/dto/Clients.class

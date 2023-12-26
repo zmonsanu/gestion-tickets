@@ -1,0 +1,8 @@
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/infraestructure/inputport/ClientRemotePort.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/MicroServicioClients.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/infraestructure/outputport/EntityRepository.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/infraestructure/outputadapter/ClientOutPort.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/domain/model/dto/Clients.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/infraestructure/rest/controller/ClientAPI.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/application/commands/ClientUseCase.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-clients/src/main/java/com/zms/domain/Constant/Constantes.java

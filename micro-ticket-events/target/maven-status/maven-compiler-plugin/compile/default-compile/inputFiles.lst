@@ -1,0 +1,7 @@
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-events/src/main/java/com/zms/application/commands/EventUseCase.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-events/src/main/java/com/zms/domain/model/dto/Events.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-events/src/main/java/com/zms/infraestructure/outputport/EntityRepository.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-events/src/main/java/com/zms/infraestructure/rest/controller/EventAPI.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-events/src/main/java/com/zms/domain/Constant/Constantes.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-events/src/main/java/com/zms/MicroServicioBoot.java
+/Users/zmonsanu/workspace-springtools/gestion-eventos/micro-ticket-events/src/main/java/com/zms/infraestructure/outputadapter/EventOutputPort.java

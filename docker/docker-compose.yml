@@ -1,0 +1,14 @@
+version: '3.5'
+
+services:
+  postgres:
+    container_name: postgres
+    image: postgres:11
+    environment:
+      POSTGRES_USER: usrtck
+      POSTGRES_PASSWORD: usr1234
+      POSTGRES_DB: ticketsdb
+      PGDATA: /data/postgres
+    ports:
+      - "5432:5432"
+    restart: unless-stopped

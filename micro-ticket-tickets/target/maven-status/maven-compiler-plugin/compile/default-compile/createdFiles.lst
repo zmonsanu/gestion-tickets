@@ -1,0 +1,11 @@
+com/zms/domain/Constant/Constantes.class
+com/zms/application/commands/TicketsUseCase.class
+com/zms/MicroServicioBoot.class
+com/zms/application/commands/QRUseCase.class
+com/zms/infraestructure/qroutputport/QROutputPort.class
+com/zms/domain/model/dto/Tickets$TicketsBuilder.class
+com/zms/infraestructure/rest/controller/TicketAPI.class
+com/zms/infraestructure/outputadapter/TicketOutPort.class
+com/zms/infraestructure/outputport/EntityRepository.class
+com/zms/domain/model/dto/Tickets.class
+com/zms/infraestructure/outputadapter/TicketQROutPort.class
